@@ -1,2 +1,2 @@
 # Presentation
-This is a small python project done on JetBrains Academy.
+small python software emulating a coffee machine done for JetBrains Academy.
